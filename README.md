@@ -1,4 +1,4 @@
-## Hi there 👋
+## ABOUT ME 👋
 
 <!--
 **kartikay036/kartikay036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
